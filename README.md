@@ -8,7 +8,7 @@ the Makefile takes care of the rest.
 
 * Obtain ffmpeg and make
 * Git clone this repo
-* "Legally" obtain a copy of an mp3 of the 1973 Robin Hood intro - copy it to the folder as "robinhood_intro.mp3"
+* "Legally" obtain a copy of an mp3 of the 1973 Robin Hood intro - copy it to the cloned project folder as "robinhood_intro.mp3"
 * Run:
 ```make```
 
