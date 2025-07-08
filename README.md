@@ -14,4 +14,4 @@ the Makefile takes care of the rest.
 
 The makefile will do the magic of recreating the hampster dance. Happy hampster dancin!
 
-***Made by Sneed Group with love.***
+***Made by Sammy Lord with love.***
